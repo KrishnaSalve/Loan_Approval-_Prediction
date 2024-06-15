@@ -1,0 +1,7 @@
+uvicorn
+fastapi
+numpy
+pandas
+pickle
+pydantic
+
